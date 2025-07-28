@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "jwtSecurity.app.jwtSecret",
+      "type": "java.lang.String",
+      "description": "Description for jwtSecurity.app.jwtSecret."
+    },
+    {
+      "name": "spring.http.multipart.enabled",
+      "type": "java.lang.String",
+      "description": "Description for spring.http.multipart.enabled."
+    }
+  ] }
