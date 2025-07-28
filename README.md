@@ -19,5 +19,5 @@ This is a Spring Boot-based eCommerce application that allows users to browse, s
 
 1. Clone the repository:
 ```shell
-   git clone
+   git clone https://github.com/pritam-jadge/ecommerce-springboot.git
 ```
